@@ -1,13 +1,14 @@
 Terminal Yahtzee (C-Based Dice Game)
-A classic implementation of the Yahtzee dice game, developed as a Year 1 Semester 1 (Y1S1) programming project. This is a command-line interface (CLI) application where a human player competes against a computer opponent over 13 rounds of strategic dice rolling.
+
+    A classic implementation of the Yahtzee dice game, developed as a Year 1 Semester 1 (Y1S1) programming project. This is a command-line interface (CLI)                application where a human player competes against a computer opponent over 13 rounds of strategic dice rolling.
 
 🎮 Game Overview
-    Yahtzee is a game of luck and strategy. The goal is to score points by rolling five dice to make specific combinations. Each combination has different scoring rules, and once a category is used, it cannot be used again for the rest of the game.
+
+     Yahtzee is a game of luck and strategy. The goal is to score points by rolling five dice to make specific combinations. Each combination has different scoring       rules, and once a category is used, it cannot be used again for the rest of the game.
 
 Features
 
     Human vs. Computer: Play against an automated opponent.
-
     Smart Computer AI: The computer evaluates its hand to decide which dice to keep and which scoring category is optimal.
     Complete Scoring Rules: Includes all standard categories:
     Upper Section: Ones through Sixes.
