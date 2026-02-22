@@ -29,15 +29,17 @@ Features
     Clone the repository:
 
     Bash
+    
     git clone https://github.com/your-username/yahtzee-c-project.git
     cd yahtzee-c-project
+    
     Compile the code:
 
-Bash
+    Bash
     gcc game2.c -o yahtzee
     Run the game:
 
-Bash
+    Bash
     ./yahtzee
     
 🕹️ How to Play
